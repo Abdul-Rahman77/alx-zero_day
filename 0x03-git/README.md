@@ -1,1 +1,2 @@
-#This is project given to the cohort 17 student of Alx Software Engineering Program
+# This is project given to the cohort 17 student of Alx Software Engineering Program
+# Readme file updated
